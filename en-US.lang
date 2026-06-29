@@ -1,0 +1,24 @@
+main_title = ===========< {app_name} >===========
+status_line = ----------------< {status} >----------------
+menu_start_stop = [0] {action} Service
+menu_start_scan = [1] Scan Now
+menu_stop_scan = [1] Stop Scan
+menu_edit_config = [2] Edit Config
+menu_hide_console = [3] Hide Console
+action_start = Start
+action_stop = Stop
+status_running = Running
+status_stopped = Stopped
+tray_tip = Stealisk Background Service
+tray_start_service = Start Service
+tray_stop_service = Stop Service
+tray_start_scan = Start Scan
+tray_stop_scan = Stop Scan
+tray_edit_config = Edit Config
+tray_show_console = Show Console
+tray_hide_console = Hide Console
+tray_exit = Exit Program
+error_already_running = Another Stealisk Controller is already running
+error_unhandled = Unhandled exception
+error_unknown = Unknown error
+app_name = Stealisk

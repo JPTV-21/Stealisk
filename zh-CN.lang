@@ -1,0 +1,24 @@
+main_title = ===========< {app_name} >===========
+status_line = ----------------< {status} >----------------
+menu_start_stop = [0] {action}服务
+menu_start_scan = [1] 现在扫描
+menu_stop_scan = [1] 停止扫描
+menu_edit_config = [2] 编辑配置
+menu_hide_console = [3] 隐藏控制台
+action_start = 启动
+action_stop = 停止
+status_running = 运行中
+status_stopped = 已停止
+tray_tip = Stealisk 后台服务
+tray_start_service = 开启服务
+tray_stop_service = 关闭服务
+tray_start_scan = 开始扫描
+tray_stop_scan = 停止扫描
+tray_edit_config = 编辑配置
+tray_show_console = 显示控制台
+tray_hide_console = 隐藏控制台
+tray_exit = 退出程序
+error_already_running = 另一个 Stealisk Controller 已在运行
+error_unhandled = 未处理的异常
+error_unknown = 未知错误
+app_name = Stealisk
